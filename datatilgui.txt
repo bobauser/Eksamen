@@ -1,23 +1,25 @@
+admin (tilfeldig fyr har bestilt bil)
+pål kukk (tilfeldig tøyt legger ut en annonse for porcha si)
+
 annonse: [
 	{
-		selgerid: 62
+		selgernavn: "Pål Kukk",
 		annonsetittel: "Ny Porche lånes i 69 timer",
 		annonsebeskrivelse: "drittfin porche",
 		biltype: x,
 		datolagttil: "2022-19-10-10:46",
+		kostnad: 6500kr,
 	}
 ]
 
-brukerid = 5 (tilfeldig fyr har bestilt bil)
 
 annonseBestilt: [
 	{
 		id: 23,
-		selgerid: 62
-		brukerid: 5,
+		selgernavn: "Pål Kukk",
+		brukernavn: "admin"
 		bestiltdato: "xxxx-XX-XX",
 		kostnad: 6500kr,
 		kontraktundertegnet: "false",
 	}
 ]
-
