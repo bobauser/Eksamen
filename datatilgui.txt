@@ -1,0 +1,23 @@
+annonse: [
+	{
+		selgerid: 62
+		annonsetittel: "Ny Porche lånes i 69 timer",
+		annonsebeskrivelse: "drittfin porche",
+		biltype: x,
+		datolagttil: "2022-19-10-10:46",
+	}
+]
+
+brukerid = 5 (tilfeldig fyr har bestilt bil)
+
+annonseBestilt: [
+	{
+		id: 23,
+		selgerid: 62
+		brukerid: 5,
+		bestiltdato: "xxxx-XX-XX",
+		kostnad: 6500kr,
+		kontraktundertegnet: "false",
+	}
+]
+
